@@ -1,5 +1,5 @@
 # Hi there 👋
-<img src="jesus.gif" width="55%" length="55%"/>
+<img src="media/jesus.gif" width="55%" length="55%"/>
 <!--
 **alfa934/alfa934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
