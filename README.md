@@ -2,13 +2,15 @@
 
 ### 👻 Introductionsss
 
-<p> Alfa is my name. Nice to meet you! Tried CompFest once... it'll be fun they said...😳</p>
+<p> <b>Alfa</b> is my name. Nice to meet you! Tried <b>CompFest</b> once... it'll be fun they said...😳</p>
 
 - 🔭 I’m currently working on this silly little README.md
 - 🌱 I’m currently learning how to make this README.md work
 - 👯 I’m looking to collaborate on improving this README.md
 - 🤔 I’m looking for help with making this README.md look presentable
 - ⚡ Fun fact: this README.md file was fun to make
+
+<hr>
 
 ### 💻 Languages used currently 
 
@@ -20,10 +22,12 @@
 <img width="6.4%" height="auto" style="margin:0.5rem" src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png"/> 
 </p>
 
+<hr>
+
 ### 🤫 SeCrEt LiFe HaCk?!?!? 
 
 <details> 
-<summary> Click Me! </summary>
+  <summary> <kbd>Click Me!</kbd> </summary>
 <empty>
 
 > is you code DRY??? 😳😳😳
@@ -31,9 +35,9 @@
 </empty>
 </details>
 
-<br>
+<hr>
 
-<img src="media/jesus.gif" width="40%" length="40%"/>
+<img src="media/jesus.gif" width="50%" length="50%"/>
 
 >My compiler when it compiles 23 lines of code with 67 errors 
 
