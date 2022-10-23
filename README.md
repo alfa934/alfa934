@@ -23,7 +23,7 @@
   <summary> <kbd>Click Me!</kbd> </summary>
 <empty>
 
-> is you code DRY??? 😳😳😳
+> is your code DRY??? 😳😳😳
 
 </empty>
 </details>
