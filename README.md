@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on this silly little README.md
 - 🌱 I’m currently learning how to make this README.md work
 - 👯 I’m looking to collaborate on improving this README.md
-- 🤔 I’m looking for help with making this README.md look presentable
+- 🤔 I’m looking for help to make this README.md look presentable
 - ⚡ Fun fact: this README.md file was fun to make
 - 🗺 Languages I speak are 🇬🇧 and 🇮🇩
 
@@ -28,7 +28,7 @@
 </empty>
 </details>
 
-<img src="media/jesus.gif" width="50%" length="50%"/>
+<img src="media/jesus.gif" width="45%" length="45%"/>
 
 >My compiler when it compiles 23 lines of code with 67 errors 
 
