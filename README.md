@@ -2,7 +2,7 @@
 <p align="center">
 <img src="media/jesus.gif" width="55%" length="55%"/>
 </p>
-> my compiler when it compiles 23 lines of code with 67 errors
+>my compiler when it compiles 23 lines of code with 67 errors
 
 
 <!--
