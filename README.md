@@ -3,7 +3,7 @@
 <img src="media/jesus.gif" width="55%" length="55%"/>
 </p>
 <p align="center">
-***my compiler when it compiles 23 lines of code with 67 errors***
+  <em><strong>my compiler when it compiles 23 lines of code with 67 errors</strong></em>
 </p>
 
 <!--
