@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there! I am using GitHub 👋
 <p align="center">
 <img src="media/jesus.gif" width="55%" length="55%"/>
 </p>
