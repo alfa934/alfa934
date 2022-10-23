@@ -9,20 +9,13 @@
 - 👯 I’m looking to collaborate on improving this README.md
 - 🤔 I’m looking for help with making this README.md look presentable
 - ⚡ Fun fact: this README.md file was fun to make
+- 🗺 Languages I speak are 🇬🇧 and 🇮🇩
 
-<hr>
 
-### 💻 Languages used currently 
+### 💻 Languages used sometimes 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfa934&theme=dracula)](https://github.com/alfa934/github-readme-stats)
 
-### 🗺 Other languages
-<p align="left" style="padding: 1rem">
-<img width="5%" height="auto" style="margin:0.5rem" src="https://cdn.countryflags.com/thumbs/indonesia/flag-400.png"/> 
-<img width="6.4%" height="auto" style="margin:0.5rem" src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png"/> 
-</p>
-
-<hr>
 
 ### 🤫 SeCrEt LiFe HaCk?!?!? 
 
@@ -34,8 +27,6 @@
 
 </empty>
 </details>
-
-<hr>
 
 <img src="media/jesus.gif" width="50%" length="50%"/>
 
