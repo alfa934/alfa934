@@ -1,5 +1,5 @@
 # Hi there 👋
-<p align="center" width="100%">
+<p align="center">
 <img src="media/jesus.gif" width="55%" length="55%"/>
 > my compiler when it compiles 23 lines of code with 67 errors
 </p>
