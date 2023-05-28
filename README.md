@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfa934&theme=dracula)](https://github.com/alfa934/github-readme-stats)
 
 
-### 🤫 SeCrEt LiFe HaCk?!?!? 
+<!-- ### 🤫 SeCrEt LiFe HaCk?!?!? 
 
 <details> 
   <summary> <kbd>Click Me!</kbd> </summary>
@@ -26,7 +26,7 @@
 > is your code DRY??? 😳😳😳
 
 </empty>
-</details>
+</details> -->
 
 <img src="media/jesus.gif" width="45%" length="45%"/>
 
