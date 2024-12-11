@@ -2,7 +2,7 @@
 
 ### 👻 Introductionsss
 
-<p> <b>Alfa</b> is my name. Nice to meet you! Tried <b>CompFest</b> once... it'll be fun they said...😳</p>
+<p> <b>Alfa</b> is my name. Nice to meet you! I'm an advocate for <b>void maju()</b> programs... it'll be fun they said...😳</p>
 
 - 🔭 I’m currently working on this silly little README.md
 - 🌱 I’m currently learning how to make this README.md work
